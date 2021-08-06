@@ -11,7 +11,7 @@
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	color: white;
+	color: whitesmoke;
 }
 .bg{margin-top: 10%;
 	margin-left: 5%;}
@@ -19,4 +19,6 @@ body {background-image: url(bg.jpg);
 	
 	background-size: ;}
 .vid {height: 50vh;width: 90vw;margin-left: 10%;}
-h1{margin-left:20% ;font-style: italic;font-size: 10px;}
+h1{margin-left:20% ;font-style: italic;font-size: 100px;}
+.subhead{font-size: 50px;
+	background-color: red;width: 80vw;}
